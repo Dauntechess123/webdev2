@@ -1,0 +1,21 @@
+
+h1  {
+    color: yellow;
+    background: cornflowerblue;
+    text-align: center;
+
+}
+
+div{
+    font-size: 60px;
+    background: green;
+    text-align: center;
+    padding: 30px;
+    border: 10px; solid;
+    margin: 60px;
+
+    margin-top: 60px;
+    
+
+
+}
