@@ -1,0 +1,19 @@
+h1{
+color: violet;
+font-size: 60px;
+}
+.px{
+font-size: 24px;
+}
+.container  {
+font-size: 30px;
+} 
+.em {
+background: tomato;
+font-size: 1em;
+}
+
+p.rem{
+font-size: 1rem;
+
+}

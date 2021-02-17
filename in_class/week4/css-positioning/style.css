@@ -1,0 +1,25 @@
+h1{
+    color: lightgreen;
+}
+
+.box    {
+    background-color: purple;
+    width: 200px;
+    height: 200px;
+    margin: 1em;
+}
+
+.absolute   {
+    background-color: rgb(231, 36, 36);
+    position: absolute;
+    left: 400px;
+    
+}
+
+.fixed  {
+    background-color: seagreen;
+    position: fixed;
+    top: 100px;
+    left: 50px;
+    
+}
