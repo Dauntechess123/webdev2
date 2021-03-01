@@ -1,0 +1,42 @@
+body{
+    background-image: url(gifs/gifevabackground.gif);
+}
+
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: 60px;
+color: palegreen;
+text-align: center;
+}
+
+img{
+    width: 200px;
+}
+.skull{
+    position: absolute;
+    left: 100px;
+    top:400px;
+}
+.kiss{
+    position: absolute;
+    bottom:300px;
+    right: 300px;
+}
+
+.red{
+    position: fixed;
+    border-bottom: palegreen;
+    right: 300px;
+    top: 400px;
+}
+
+.spider{
+    position: absolute;
+    bottom: 300px;
+    left: 20px;
+}
+
+.eva{
+    position: fixed;
+    left: 500px;
+}

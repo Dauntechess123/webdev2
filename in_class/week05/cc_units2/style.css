@@ -1,0 +1,18 @@
+*{
+margin:0;
+padding: 0;
+box-sizing:
+border-box;}
+section{
+margin: 2rem 5em;
+padding: 1em;
+border-color:solid grey;
+}
+.box-em{
+    width:max-content;
+    font-size: 40px;
+    padding: 2em;
+    margin: 1rem;
+    background: grey;
+    color: white;
+}
